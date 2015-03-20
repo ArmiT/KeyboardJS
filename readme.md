@@ -11,7 +11,7 @@ KeyboardJS is an easy to use keyboard wrapper. It supports the following:
 + Keyboard locales - Support for multiple locales. Comes with US locale.
 
 ## Important
-This fork for composer package
+This fork for composer package and Yii2 asset bundle.
 
 ## Examples
 

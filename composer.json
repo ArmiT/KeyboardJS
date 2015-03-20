@@ -1,0 +1,21 @@
+{
+  "name": "ArmiT/keyboardJS",
+  "description": "A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts. It can be used as both a standalone library or an AMD module",
+  "keywords": [
+    "Key Binding", "Keyboard", "Key combos", "Keyboard Shortcuts",
+    "javascript"
+  ],
+  "homepage": "http://robertwhurst.github.io/KeyboardJS/",
+  "type": "library",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Robert Hurst",
+      "email": "robertwhurst@gmail.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/RobertWHurst/KeyboardJS/issues",
+    "source": "git@github.com:RobertWHurst/KeyboardJS.git"
+  }
+}
